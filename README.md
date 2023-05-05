@@ -21,6 +21,15 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1PnwX2-wsjFDcuiq9Ak3PHJ2XSWF7gU7fcsNT33l6Y-o/edit#](https://docs.google.com/document/d/1PnwX2-wsjFDcuiq9Ak3PHJ2XSWF7gU7fcsNT33l6Y-o/edit#)
 
+
+##stats
+<p align="center">
+<img height="180em" width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=swarina&theme=react&hide_border=true"/>
+<img height="172em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarina&layout=compact&theme=react&hide_border=true"/>
+</p>
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/varnika-choudhary-4a1b43197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varnika-choudhary-4a1b43197/" height="30" width="40" /></a>
