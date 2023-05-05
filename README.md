@@ -13,15 +13,38 @@
 - 🔭 Exploring the depths of Backend Development
 - 👨‍💻 I'm focused on **DSA** and **Full Stack** Development for now.
 - 🤝 I’m looking to collaborate on full stack projects and open to internships.
-- - 📫 How to reach me **varnikaa02@gmail.com**
+-  💬 Ask me about anything, I'm happy to help.
+-  📫 How to reach me **varnikaa02@gmail.com**
 - ⚡ Fun fact: I'm always up for a caffeine-fueled coding session, so feel free to hit me up for a coffee date anytime!!!
+
+
+<br>
 
 
 - 👨‍💻 All of my projects are available at [Github : https://github.com/VARNIKACHOUDHARY](Github : https://github.com/VARNIKACHOUDHARY)
 
 ## 💻 Tech Stack
 
-<p align="center"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"> <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<p align="center"><img src="https://img.shields.io/badge/C-563D7C?style=for-the-badge&logo=c&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-563D7C?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white"/> 
+<img src="https://img.shields.io/badge/CSS-563D7C?&style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Django-563D7C?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+<img src="https://img.shields.io/badge/React_Router-563D7C?style=for-the-badge&logo=react-router&logoColor=white"> 
+<img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Visual Studio Code-563D7C?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/GithubPages-000000?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-563D7C?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-000000?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Netlify-563D7C?style=for-the-badge&logo=netlify&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+	
 </p>
 
 <br>
