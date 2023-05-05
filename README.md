@@ -9,7 +9,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
 <br><br>
 
-- 🔭 I’m currently working on **a project based on Health Recommender System**
+- 🔭 I’m currently working on **a project based on HealthCare Recommending System**
 - 🔭 Exploring the depths of Backend Development
 - 👨‍💻 I'm focused on **DSA** and **Full Stack** Development for now.
 - 🤝 I’m looking to collaborate on full stack projects and open to internships.
@@ -19,11 +19,11 @@
 <br>
 <br>
 
-- ⚡ Fun fact: I'm always up for a caffeine-fueled coding session, so feel free to hit me up for a coffee date anytime!!!
-
-<br>
 
 - 👨‍💻 All of my projects are available at [Github : https://github.com/VARNIKACHOUDHARY](Github : https://github.com/VARNIKACHOUDHARY)
+<br>
+
+- ⚡ Fun fact: I'm always up for a caffeine-fueled coding session, so feel free to hit me up for a coffee date anytime!!!
 
 <br>
 
