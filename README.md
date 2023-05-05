@@ -26,7 +26,7 @@
 - 👨‍💻 All of my projects are available at [Github : https://github.com/VARNIKACHOUDHARY](Github : https://github.com/VARNIKACHOUDHARY)
 
 <br>
-<br>
+
 ## 💻 Tech Stack
 
 <p align="center"><img src="https://img.shields.io/badge/C-563D7C?style=for-the-badge&logo=c&logoColor=white"/> 
