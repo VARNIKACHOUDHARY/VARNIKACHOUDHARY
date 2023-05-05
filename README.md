@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Varnika Choudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C4E22AQG9QjGp5fooYg/feedshare-shrink_2048_1536/0/1675699563601?e=2147483647&v=beta&t=f7Qk-E610CJJoJyS_nycY-zP3fnG0kGEvqRBRRiz5DA
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/71038809/236377880-59fa86ac-7da9-4c65-b7c1-c7829bd6e464.png)
 ">
 
 
