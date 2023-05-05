@@ -1,4 +1,4 @@
-![logo](https://github.com/VARNIKACHOUDHARY/VARNIKACHOUDHARY/blob/main/Designer.mp4)
+![logo](https://github.com/VARNIKACHOUDHARY/VARNIKACHOUDHARY/blob/main/Designer.png)
 <h1 align="center">Hi 👋, I'm Varnika Choudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
