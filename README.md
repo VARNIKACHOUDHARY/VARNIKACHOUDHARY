@@ -15,7 +15,10 @@
 - 🤝 I’m looking to collaborate on full stack projects and open to internships.
 -  💬 Ask me about anything, I'm happy to help.
 -  📫 How to reach me **varnikaa02@gmail.com**
--  <br>
+<br>
+<br>
+<br>
+
 - ⚡ Fun fact: I'm always up for a caffeine-fueled coding session, so feel free to hit me up for a coffee date anytime!!!
 
 
