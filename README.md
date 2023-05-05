@@ -20,15 +20,24 @@
 - 👨‍💻 All of my projects are available at [Github : https://github.com/VARNIKACHOUDHARY](Github : https://github.com/VARNIKACHOUDHARY)
 
 
+## &#x1f4c8; GitHub Stats
+<!-- <div align="center">
+<a href="https://github.com/varnikachoudhary/varnikachoudhary">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varnikachoudhary&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/varnikachoudhary/varnikachoudhary">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=varnikachoudhary&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Varnika's GitHub Stats" />
+</a>
+	 -->
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varnikachoudhary&layout=compact&hide=TSQL&theme=nightowl"></p> -->
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=varnikachoudhary&count_private=true&show_icons=true&&theme=nightowl&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=varnikachoudhary&theme=nightowl"></p>	
 
-## ⚡ My Github Stats
-<p align="center">
-<img height="180em" width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=varnikachoudhary&theme=react&hide_border=true"/>
-<img height="172em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varnikachoudhary&layout=compact&theme=react&hide_border=true"/>
+<br>
+<br>
+## 🛠 Tech Stack
+<p align="center"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-<br>
-
-<br>
 
 ## 📫 Connect with me
 <p align="center">
@@ -41,10 +50,10 @@
 <a href="https://instagram.com/https://www.instagram.com/varnika__choudhary/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/swarinajaiswal" target="_blank">
+<a href="https://www.facebook.com/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/swarinajaiswal" target="_blank">
+<a href="https://twitter.com/VarnikaChoudha7" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </p>
