@@ -14,18 +14,21 @@
 
 
 - 🔭 I’m currently working on **a project based on Health Recommender System**
+- - 🔭 I’m currently deep-diving into **Backend Development**.
+- 👨‍💻 I'm focused on **DSA** and **Full Stack** Development for now.
+- 🤝 I’m looking to collaborate on full stack projects and open to internships.
+- ⚡ Fun fact: For me I guess coffee and coding make the perfect blend, just like caffeine and creativity
+
 
 - 👨‍💻 All of my projects are available at [Github : https://github.com/VARNIKACHOUDHARY](Github : https://github.com/VARNIKACHOUDHARY)
 
 - 📫 How to reach me **varnikaa02@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1PnwX2-wsjFDcuiq9Ak3PHJ2XSWF7gU7fcsNT33l6Y-o/edit#](https://docs.google.com/document/d/1PnwX2-wsjFDcuiq9Ak3PHJ2XSWF7gU7fcsNT33l6Y-o/edit#)
-
 
 ##stats
 <p align="center">
-<img height="180em" width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=swarina&theme=react&hide_border=true"/>
-<img height="172em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarina&layout=compact&theme=react&hide_border=true"/>
+<img height="180em" width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=varnikachoudhary&theme=react&hide_border=true"/>
+<img height="172em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varnikachoudhary&layout=compact&theme=react&hide_border=true"/>
 </p>
 
 <br>
