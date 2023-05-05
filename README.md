@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Varnika Choudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-![image](https://user-images.githubusercontent.com/71038809/236375385-7314ab8b-874b-4a8b-9b98-c3c04bab3bea.png)
+<img align="right" width="400" src="![image](https://user-images.githubusercontent.com/71038809/236375614-e9935ac9-8c26-49c2-b364-cb3c09d49b2a.png)
+">
 
 
 
