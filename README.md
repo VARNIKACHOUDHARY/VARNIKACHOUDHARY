@@ -8,7 +8,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varnikachoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="varnikachoudhary" /> </p>
+
 
 
 - 🔭 I’m currently working on **a project based on Health Recommender System**
