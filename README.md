@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Varnika Choudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align=“right” alt=“coding” src=“![image](https://user-images.githubusercontent.com/71038809/236375230-963a5f6a-4b4b-402d-9bfb-7182715d1483.png)
-”>
-<img align=“right” alt=“coding” src=“”>
+![image](https://user-images.githubusercontent.com/71038809/236375385-7314ab8b-874b-4a8b-9b98-c3c04bab3bea.png)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varnikachoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="varnikachoudhary" /> </p>
 
