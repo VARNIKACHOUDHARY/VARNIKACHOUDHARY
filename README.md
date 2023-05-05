@@ -1,10 +1,5 @@
-<video src="video.mp4" width="640" height="360" controls autoplay loop muted poster="https://github.com/VARNIKACHOUDHARY/VARNIKACHOUDHARY/blob/main/Designer.mp4https://github.com/VARNIKACHOUDHARY/VARNIKACHOUDHARY/blob/main/Designer.mp4">
-  Your browser does not support the video tag.
-</video>
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-<br>
 <h1 align="center">Hi 👋, I'm Varnika Choudhary</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A frontend developer from India</h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
 <br><br>
@@ -16,15 +11,15 @@
 
 
 - 🔭 I’m currently working on **a project based on Health Recommender System**
-- - 🔭 I’m currently deep-diving into **Backend Development**.
+- 🔭 Exploring the depths of Backend Development
 - 👨‍💻 I'm focused on **DSA** and **Full Stack** Development for now.
 - 🤝 I’m looking to collaborate on full stack projects and open to internships.
+- - 📫 How to reach me **varnikaa02@gmail.com**
 - ⚡ Fun fact: I'm always up for a caffeine-fueled coding session, so feel free to hit me up for a coffee date anytime!!!
 
 
 - 👨‍💻 All of my projects are available at [Github : https://github.com/VARNIKACHOUDHARY](Github : https://github.com/VARNIKACHOUDHARY)
 
-- 📫 How to reach me **varnikaa02@gmail.com**
 
 
 ##stats
