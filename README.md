@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Varnika Choudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<a href="https://linkedin.com/in/ishani-dey-11b9b7213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishani-dey-11b9b7213" height="30" width="40" /></a>
-</p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif">
 
 
 
