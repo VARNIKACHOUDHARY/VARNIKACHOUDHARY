@@ -1,4 +1,6 @@
-![logo](https://github.com/VARNIKACHOUDHARY/VARNIKACHOUDHARY/blob/main/Designer.png)
+<video src="video.mp4" width="640" height="360" controls autoplay loop muted poster="https://github.com/VARNIKACHOUDHARY/VARNIKACHOUDHARY/blob/main/Designer.mp4https://github.com/VARNIKACHOUDHARY/VARNIKACHOUDHARY/blob/main/Designer.mp4">
+  Your browser does not support the video tag.
+</video>
 <h1 align="center">Hi 👋, I'm Varnika Choudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
