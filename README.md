@@ -17,13 +17,12 @@
 -  📫 How to reach me **varnikaa02@gmail.com**
 <br>
 <br>
+<br>
 
 - ⚡ Fun fact: I'm always up for a caffeine-fueled coding session, so feel free to hit me up for a coffee date anytime!!!
 
 
 <br>
-
-
 - 👨‍💻 All of my projects are available at [Github : https://github.com/VARNIKACHOUDHARY](Github : https://github.com/VARNIKACHOUDHARY)
 
 ## 💻 Tech Stack
