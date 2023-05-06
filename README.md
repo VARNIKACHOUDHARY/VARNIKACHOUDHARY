@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **a project based on HealthCare Recommending System**
 - 🔭 Exploring the depths of Backend Development
 - 👨‍💻 I'm focused on **DSA** and **Full Stack** Development for now.
-- 🤝 I’m looking to collaborate on full stack projects and open to internships.
+- 🤝 I’m looking to collaborate on full stack projects and open to internships and jobs.
 -  💬 Ask me about anything, I'm happy to help.
 -  📫 How to reach me **varnikaa02@gmail.com**
 <br>
